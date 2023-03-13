@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\bin\Debug\Aplikasi Data NIlai Jurusan.exe.config
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\bin\Debug\Aplikasi Data NIlai Jurusan.exe
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\bin\Debug\Aplikasi Data NIlai Jurusan.pdb
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\obj\Debug\Aplikasi Data NIlai Jurusan.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\obj\Debug\Aplikasi Data NIlai Jurusan.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\obj\Debug\Aplikasi Data NIlai Jurusan.exe
+C:\Users\lenovo\source\repos\Aplikasi Data NIlai Jurusan\obj\Debug\Aplikasi Data NIlai Jurusan.pdb
